@@ -1,0 +1,4 @@
+data/testdata.json
+.idea/
+target/
+*.iml
